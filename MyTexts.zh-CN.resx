@@ -1781,7 +1781,7 @@
     <value>社区公关经理</value>
   </data>
   <data name="Department_ExecutiveProducer" xml:space="preserve">
-    <value> 执行制作人</value>
+    <value>执行制作人</value>
   </data>
   <data name="Department_GameDesigners" xml:space="preserve">
     <value>游戏设计师</value>
@@ -2461,7 +2461,7 @@
     <value>天线-tx-</value>
   </data>
   <data name="DisplayName_Block_Arc_Furnace" xml:space="preserve">
-    <value>电弧炉</value>
+    <value>电弧炉-dhl-</value>
   </data>
   <data name="DisplayName_Block_ArmorCenter" xml:space="preserve">
     <value>防爆门-fbm-</value>
@@ -2476,7 +2476,7 @@
     <value>防爆门边-fbmb-</value>
   </data>
   <data name="DisplayName_Block_BasicAssembler" xml:space="preserve">
-    <value>简易装配机</value>
+    <value>简易装配机-jyzpj-</value>
   </data>
   <data name="DisplayName_Block_Assembler" xml:space="preserve">
     <value>装配机-zpj-</value>
@@ -2566,7 +2566,7 @@
     <value>角落液晶底部-JD-LCD-</value>
   </data>
   <data name="DisplayName_Block_CornerLCDFlatBottom" xml:space="preserve">
-    <value>角落液晶平底-SJD-LCD</value>
+    <value>角落液晶平底-SJD-LCD-</value>
   </data>
   <data name="DisplayName_Block_CornerLCDFlatTop" xml:space="preserve">
     <value>角落液晶平顶-SJU-LCD-</value>
@@ -2575,7 +2575,7 @@
     <value>角灯-JD-</value>
   </data>
   <data name="DisplayName_Block_CornerLightDouble" xml:space="preserve">
-    <value>角灯 -一对-jdyd-</value>
+    <value>一对角灯-ydjd-</value>
   </data>
   <data name="DisplayName_Block_CryoChamber" xml:space="preserve">
     <value>休眠仓-xmc-</value>
@@ -2599,7 +2599,7 @@
     <value>门-m-</value>
   </data>
   <data name="DisplayName_Block_Drill" xml:space="preserve">
-    <value>钻头</value>
+    <value>钻头-zt-</value>
   </data>
   <data name="DisplayName_Block_EffectivenessModule" xml:space="preserve">
     <value>精炼增效模块-jlzxmk-</value>
@@ -2611,73 +2611,73 @@
     <value>歼击机座舱-jjjzc-</value>
   </data>
   <data name="DisplayName_Block_FoodDispenser" xml:space="preserve">
-    <value>售货机</value>
+    <value>售货机-shj-</value>
   </data>
   <data name="DisplayName_Block_LabEquipment" xml:space="preserve">
-    <value>实验室设备</value>
+    <value>实验室设备-syssb-</value>
   </data>
   <data name="DisplayName_Block_Shower" xml:space="preserve">
-    <value>淋浴间</value>
+    <value>淋浴间-lyj-</value>
   </data>
   <data name="DisplayName_Block_Jukebox" xml:space="preserve">
-    <value>点唱机</value>
+    <value>点唱机-dcj-</value>
   </data>
   <data name="DisplayName_Block_WindowWall" xml:space="preserve">
-    <value>窗户墙</value>
+    <value>窗户墙-chq-</value>
   </data>
   <data name="DisplayName_Block_WindowWallLeft" xml:space="preserve">
-    <value>窗户墙左</value>
+    <value>窗户墙左-chqz-</value>
   </data>
   <data name="DisplayName_Block_WindowWallRight" xml:space="preserve">
-    <value>窗户墙右</value>
+    <value>窗户墙右-chqy-</value>
   </data>
   <data name="DisplayName_Block_MedicalStation" xml:space="preserve">
-    <value>医疗站</value>
+    <value>医疗站-ylz-</value>
   </data>
   <data name="DisplayName_Block_TransparentLCD" xml:space="preserve">
-    <value>透明液晶</value>
+    <value>透明液晶-tmyj-</value>
   </data>
   <data name="DisplayName_Block_RailingStraight" xml:space="preserve">
-    <value>直护栏</value>
+    <value>直护栏-zhl-</value>
   </data>
   <data name="DisplayName_Block_RailingDouble" xml:space="preserve">
-    <value>双层护栏</value>
+    <value>双层护栏-schl-</value>
   </data>
   <data name="DisplayName_Block_RailingCorner" xml:space="preserve">
-    <value>护栏角</value>
+    <value>护栏角-hlj-</value>
   </data>
   <data name="DisplayName_Block_RailingDiagonal" xml:space="preserve">
-    <value>斜护栏</value>
+    <value>斜护栏-xhl-</value>
   </data>
   <data name="DisplayName_Block_GratedCatwalk" xml:space="preserve">
-    <value>格栅式过道</value>
+    <value>格栅式过道-gssgd-</value>
   </data>
   <data name="DisplayName_Block_GratedCatwalkCorner" xml:space="preserve">
-    <value>格栅式过道角</value>
+    <value>格栅式过道角-gssgdj-</value>
   </data>
   <data name="DisplayName_Block_GratedCatwalkStraight" xml:space="preserve">
-    <value>直格栅式过道</value>
+    <value>直格栅式过道-zgssgd-</value>
   </data>
   <data name="DisplayName_Block_GratedCatwalkWall" xml:space="preserve">
-    <value>格栅式过道墙</value>
+    <value>格栅式过道墙-gssgdq-</value>
   </data>
   <data name="DisplayName_Block_GratedStairs" xml:space="preserve">
-    <value>格栅式楼梯</value>
+    <value>格栅式楼梯-gsslt-</value>
   </data>
   <data name="DisplayName_Block_GratedHalfStairs" xml:space="preserve">
-    <value>格栅式半楼梯</value>
+    <value>格栅式半楼梯-gssblt-</value>
   </data>
   <data name="DisplayName_Block_RotatingLight" xml:space="preserve">
-    <value>旋转灯</value>
+    <value>旋转灯-xzd-</value>
   </data>
   <data name="DisplayName_Block_Freight1" xml:space="preserve">
-    <value>货物 1</value>
+    <value>货物 1-hw1-</value>
   </data>
   <data name="DisplayName_Block_Freight2" xml:space="preserve">
-    <value>货物 2</value>
+    <value>货物 2-hw2-</value>
   </data>
   <data name="DisplayName_Block_Freight3" xml:space="preserve">
-    <value>货物 3</value>
+    <value>货物 3-hw3-</value>
   </data>
   <data name="DisplayName_Block_FullCoverWall" xml:space="preserve">
     <value>全掩体墙-qytq-</value>
@@ -2695,7 +2695,7 @@
     <value>球形重力发生器-qxzlfsq-</value>
   </data>
   <data name="DisplayName_Block_Gyroscope" xml:space="preserve">
-    <value>陀螺仪</value>
+    <value>陀螺仪-tly-</value>
   </data>
   <data name="DisplayName_Block_HalfCoverWall" xml:space="preserve">
     <value>半掩体墙-bytq-</value>
@@ -2824,13 +2824,13 @@
     <value>起落架-qlj-</value>
   </data>
   <data name="DisplayName_Block_LargeAtmoThrust" xml:space="preserve">
-    <value>大型空气动力推进器-dxkqdltjq-</value>
+    <value>大型空气推进器-dxkqtjq-</value>
   </data>
   <data name="DisplayName_Block_LargeCargoContainer" xml:space="preserve">
     <value>大型货物储存箱-dxhwccx-</value>
   </data>
   <data name="DisplayName_Block_LargeHydrogenThrust" xml:space="preserve">
-    <value>大型氢动力推进器-dxqdltjq-</value>
+    <value>大型氢气推进器-dxqqtjq-</value>
   </data>
   <data name="DisplayName_Block_LargeReactor" xml:space="preserve">
     <value>大型反应堆-dxfyd-</value>
@@ -2959,10 +2959,10 @@
     <value>导弹发射器-ddfsq-</value>
   </data>
   <data name="DisplayName_Block_OpenCockpitLarge" xml:space="preserve">
-    <value>大型控制座椅</value>
+    <value>大型控制座椅-dxkzzy-</value>
   </data>
   <data name="DisplayName_Block_OpenCockpitSmall" xml:space="preserve">
-    <value>小型控制座椅</value>
+    <value>小型控制座椅-xxkzzy-</value>
   </data>
   <data name="DisplayName_Block_OreDetector" xml:space="preserve">
     <value>矿物探测器-kwtcq-</value>
@@ -2971,7 +2971,7 @@
     <value>氧气农场-yqnc-</value>
   </data>
   <data name="DisplayName_Block_OxygenGenerator" xml:space="preserve">
-    <value>氧气/氢气制造机-yqzzj-</value>
+    <value>氧气/氢气制造机-yqqqzzj-</value>
   </data>
   <data name="DisplayName_Block_OxygenTank" xml:space="preserve">
     <value>氧气罐-yqg-</value>
@@ -3010,7 +3010,7 @@
     <value>聚光灯-jgd-</value>
   </data>
   <data name="DisplayName_Block_RemoteControl" xml:space="preserve">
-    <value>远程控制</value>
+    <value>远程控制-yckz-</value>
   </data>
   <data name="DisplayName_Block_RocketLauncher" xml:space="preserve">
     <value>火箭发射器-hjfsq-</value>
@@ -3031,7 +3031,7 @@
     <value>焊接器-hjq-</value>
   </data>
   <data name="DisplayName_Block_SmallAtmoThrust" xml:space="preserve">
-    <value>小型空气动力推进器-xxkqdltjq-</value>
+    <value>小型空气推进器-xxkqtjq-</value>
   </data>
   <data name="DisplayName_Block_SmallCargoContainer" xml:space="preserve">
     <value>小型货物储存箱-xxhwccx-</value>
@@ -3040,7 +3040,7 @@
     <value>小型分拣传输机-xxfjcsj-</value>
   </data>
   <data name="DisplayName_Block_SmallHydrogenThrust" xml:space="preserve">
-    <value>氢气推进器</value>
+    <value>小型氢气推进器-xxqqtjq-</value>
   </data>
   <data name="DisplayName_Block_SmallReactor" xml:space="preserve">
     <value>小型反应堆-xxfyd-</value>
@@ -3576,10 +3576,10 @@
     <value>三级增强焊接器-syjzqhjq-</value>
   </data>
   <data name="DisplayName_LCD_Panel" xml:space="preserve">
-    <value>液晶显示屏 -LCD-</value>
+    <value>液晶显示屏-yjxsq-[LCD]</value>
   </data>
   <data name="DisplayName_LCD_PanelWide" xml:space="preserve">
-    <value>宽屏显示器-kp-[LCD]</value>
+    <value>宽屏显示器-kpxsq-[LCD]</value>
   </data>
   <data name="DisplayName_MarsLander" xml:space="preserve">
     <value>火星登陆</value>
@@ -4056,7 +4056,7 @@
 按Shift-{0} 可以直接进入远程控制菜单。</value>
   </data>
   <data name="Hint03Text" xml:space="preserve">
-    <value> 在主驾驶仓中，控制炮塔时可以
+    <value>在主驾驶仓中，控制炮塔时可以
 按住Alt键开启鼠标控制。</value>
   </data>
   <data name="Hint04Text" xml:space="preserve">
@@ -4153,7 +4153,7 @@
 焊接时，双击可以使工具保持不间断工作。</value>
   </data>
   <data name="Hint24Text" xml:space="preserve">
-    <value> 小贴士：
+    <value>小贴士：
   
   
 弹头在装配前很安全</value>
@@ -5198,7 +5198,7 @@
     <value>不能放置车轮。</value>
   </data>
   <data name="Notification_BlueprintScriptRemoved" xml:space="preserve">
-    <value>一些脚本已经从这个蓝图移除，因为你没有脚本的权限 </value>
+    <value>一些脚本已经从这个蓝图移除，因为你没有脚本的权限</value>
   </data>
   <data name="Notification_ControllableBlockIsDamaged" xml:space="preserve">
     <value>{0}已受损</value>
@@ -6699,7 +6699,7 @@
     <value>朋友的信号</value>
   </data>
   <data name="Signal_Mixed" xml:space="preserve">
-    <value>混合信号 </value>
+    <value>混合信号</value>
   </data>
   <data name="Signal_Neutral" xml:space="preserve">
     <value>中立的信号</value>
@@ -8859,7 +8859,7 @@ PVP意味着你可以伤害其他玩家，他们也可以伤害你。</value>
     <value>氢气不足。氢氧制造机产生氢气。你可以在那充气。如果医疗站与氢氧制造机相连，也能充气。</value>
   </data>
   <data name="IngameHelp_Hydrogen_Detail2" xml:space="preserve">
-    <value> 充氢气。</value>
+    <value>充氢气。</value>
   </data>
   <data name="IngameHelp_Hydrogen_Title" xml:space="preserve">
     <value>友好机器人：氢气</value>
@@ -10072,16 +10072,16 @@ PVP意味着你可以伤害其他玩家，他们也可以伤害你。</value>
     <value>信标启用后，会在屏幕显示的文本。预留空白处显示方块名称。</value>
   </data>
   <data name="DisplayName_Block_Hydrogen_Engine" xml:space="preserve">
-    <value>氢气引擎</value>
+    <value>氢气引擎-qqyq-</value>
   </data>
   <data name="DisplayName_Block_WindTurbine" xml:space="preserve">
-    <value>风轮机</value>
+    <value>风轮机-flj-</value>
   </data>
   <data name="DisplayName_Block_SurvivalKit" xml:space="preserve">
-    <value>求生装置</value>
+    <value>求生装置-qszz-</value>
   </data>
   <data name="DisplayName_Block_SmallBattery" xml:space="preserve">
-    <value>小电池</value>
+    <value>小电池-xdc-</value>
   </data>
   <data name="ToolTipWorldSettings_EnableResearch" xml:space="preserve">
     <value>通过进度树启用升级</value>
@@ -10114,7 +10114,7 @@ PVP意味着你可以伤害其他玩家，他们也可以伤害你。</value>
     <value>未知技术。你必须先研发。</value>
   </data>
   <data name="DisplayName_Block_Ladder" xml:space="preserve">
-    <value>梯子</value>
+    <value>梯子-tz-</value>
   </data>
   <data name="CustomWorld_NeverSurrender" xml:space="preserve">
     <value>决不投降</value>
@@ -10238,7 +10238,7 @@ PVP意味着你可以伤害其他玩家，他们也可以伤害你。</value>
     <value>此网格能启动自动交易。</value>
   </data>
   <data name="DisplayName_Block_Store" xml:space="preserve">
-    <value>商店</value>
+    <value>商店-sd-</value>
   </data>
   <data name="BlockPropertyDescription_Connector_AutoUnlockTime" xml:space="preserve">
     <value>倒计时结束后连接器自动解锁。</value>
@@ -10415,55 +10415,55 @@ PVP意味着你可以伤害其他玩家，他们也可以伤害你。</value>
     <value>比例尺</value>
   </data>
   <data name="DisplayName_Block_Bathroom" xml:space="preserve">
-    <value>浴室</value>
+    <value>浴室-ys-</value>
   </data>
   <data name="DisplayName_Block_BathroomOpen" xml:space="preserve">
-    <value>洗手间</value>
+    <value>洗手间-xsj-</value>
   </data>
   <data name="DisplayName_Block_Bed" xml:space="preserve">
-    <value>床</value>
+    <value>床-c-</value>
   </data>
   <data name="DisplayName_Block_CockpitIndustrial" xml:space="preserve">
-    <value>工业驾驶舱</value>
+    <value>工业驾驶舱-gyjsc-</value>
   </data>
   <data name="DisplayName_Block_Console" xml:space="preserve">
-    <value>中控方块</value>
+    <value>中控方块-zkfk-</value>
   </data>
   <data name="DisplayName_Block_Couch" xml:space="preserve">
-    <value>沙发</value>
+    <value>沙发-sf-</value>
   </data>
   <data name="DisplayName_Block_CouchCorner" xml:space="preserve">
-    <value>角沙发</value>
+    <value>角沙发-jsf-</value>
   </data>
   <data name="DisplayName_Block_Desk" xml:space="preserve">
-    <value>桌子</value>
+    <value>桌子-zz-</value>
   </data>
   <data name="DisplayName_Block_DeskCorner" xml:space="preserve">
-    <value>桌角</value>
+    <value>桌角-zj-</value>
   </data>
   <data name="DisplayName_Block_DeskChairless" xml:space="preserve">
-    <value>不带椅子的桌子</value>
+    <value>不带椅子的桌子-zz-</value>
   </data>
   <data name="DisplayName_Block_DeskChairlessCorner" xml:space="preserve">
-    <value>不带椅子的桌角</value>
+    <value>不带椅子的桌角-zj-</value>
   </data>
   <data name="DisplayName_Block_Kitchen" xml:space="preserve">
-    <value>厨房</value>
+    <value>厨房-cf-</value>
   </data>
   <data name="DisplayName_Block_LockerRoom" xml:space="preserve">
-    <value>兵工厂</value>
+    <value>兵工厂-bgc-</value>
   </data>
   <data name="DisplayName_Block_Lockers" xml:space="preserve">
-    <value>柜子</value>
+    <value>柜子-gz-</value>
   </data>
   <data name="DisplayName_Block_Planters" xml:space="preserve">
-    <value>播种机</value>
+    <value>播种机-bzj-</value>
   </data>
   <data name="DisplayName_Block_Toilet" xml:space="preserve">
-    <value>厕所座椅</value>
+    <value>厕所座椅-cszy-</value>
   </data>
   <data name="DisplayName_Block_LockerRoomCorner" xml:space="preserve">
-    <value>兵工厂柜子</value>
+    <value>兵工厂柜子-bgcgz-</value>
   </data>
   <data name="ScreenDebugAdminMenu_ReplayTool" xml:space="preserve">
     <value>重播工具</value>
@@ -11334,7 +11334,7 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
     <value>在它周围建安全区。安全区可以保护你的财产</value>
   </data>
   <data name="DisplayName_Block_SafeZone" xml:space="preserve">
-    <value>安全区</value>
+    <value>安全区-aqq-</value>
   </data>
   <data name="ScreenCaptionContracts" xml:space="preserve">
     <value>合同</value>
@@ -11346,7 +11346,7 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
     <value>合同管理方块</value>
   </data>
   <data name="DisplayName_Block_Contract" xml:space="preserve">
-    <value>合同</value>
+    <value>合同-ht-</value>
   </data>
   <data name="NotificationHintPressToOpenContract" xml:space="preserve">
     <value>按{0}打开合同</value>
@@ -11361,7 +11361,7 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
     <value>友好机器人：经济站</value>
   </data>
   <data name="Description_DLC_EconomyExpansion" xml:space="preserve">
-    <value>*** 经济高级版DLC描述*** </value>
+    <value>*** 经济高级版DLC描述***</value>
   </data>
   <data name="DisplayName_DLC_EconomyExpansion" xml:space="preserve">
     <value>经济高级版</value>
@@ -12610,7 +12610,7 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
     <value>自动柜员机</value>
   </data>
   <data name="DisplayName_Block_ATM" xml:space="preserve">
-    <value>自动柜员机</value>
+    <value>自动柜员机-zdgyj-</value>
   </data>
   <data name="NotificationHintPressToAccessAtm" xml:space="preserve">
     <value>按{0}访问自动柜员机</value>
@@ -12622,7 +12622,7 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
     <value>允许显示和出售物品。</value>
   </data>
   <data name="DisplayName_Block_VendingMachine" xml:space="preserve">
-    <value>售货机</value>
+    <value>售货机-shj-</value>
   </data>
   <data name="NotificationHintBuyItem" xml:space="preserve">
     <value>按{0}购买物品</value>
