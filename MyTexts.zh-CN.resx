@@ -2559,18 +2559,6 @@
   <data name="DisplayName_Block_ConveyorTubeSmall" xml:space="preserve">
     <value>小型输送管道-xxssgd-</value>
   </data>
-  <data name="DisplayName_Block_CornerLCD" xml:space="preserve">
-    <value>角落液晶顶-JU-LCD-</value>
-  </data>
-  <data name="DisplayName_Block_CornerLCD2" xml:space="preserve">
-    <value>角落液晶底部-JD-LCD-</value>
-  </data>
-  <data name="DisplayName_Block_CornerLCDFlatBottom" xml:space="preserve">
-    <value>角落液晶平底-SJD-LCD-</value>
-  </data>
-  <data name="DisplayName_Block_CornerLCDFlatTop" xml:space="preserve">
-    <value>角落液晶平顶-SJU-LCD-</value>
-  </data>
   <data name="DisplayName_Block_CornerLight" xml:space="preserve">
     <value>角灯-JD-</value>
   </data>
@@ -2633,9 +2621,6 @@
   </data>
   <data name="DisplayName_Block_MedicalStation" xml:space="preserve">
     <value>医疗站-ylz-</value>
-  </data>
-  <data name="DisplayName_Block_TransparentLCD" xml:space="preserve">
-    <value>透明液晶-tmyj-</value>
   </data>
   <data name="DisplayName_Block_RailingStraight" xml:space="preserve">
     <value>直护栏-zhl-</value>
@@ -3092,9 +3077,6 @@
   </data>
   <data name="DisplayName_Block_Suspension5x5mirrored" xml:space="preserve">
     <value>车轮悬架-clxj- 5x5左</value>
-  </data>
-  <data name="DisplayName_Block_TextPanel" xml:space="preserve">
-    <value>文本面板-TEXT-[LCD]</value>
   </data>
   <data name="DisplayName_Block_TimerBlock" xml:space="preserve">
     <value>定时器块-dsqk-</value>
@@ -3575,11 +3557,29 @@
   <data name="DisplayName_Item_Welder4" xml:space="preserve">
     <value>三级增强焊接器-syjzqhjq-</value>
   </data>
+  <data name="DisplayName_Block_TextPanel" xml:space="preserve">
+    <value>文本液晶显示器-wbyjxsq-[LCD]</value>
+  </data>
   <data name="DisplayName_LCD_Panel" xml:space="preserve">
-    <value>液晶显示屏-yjxsq-[LCD]</value>
+    <value>普通液晶显示器-ptyjxsq-[LCD]</value>
   </data>
   <data name="DisplayName_LCD_PanelWide" xml:space="preserve">
-    <value>宽屏显示器-kpxsq-[LCD]</value>
+    <value>宽屏液晶显示器-kpyjxsq-[LCD]</value>
+  </data>
+  <data name="DisplayName_Block_TransparentLCD" xml:space="preserve">
+    <value>透明液晶显示器-tmyjxsq-[LCD]</value>
+  </data>
+  <data name="DisplayName_Block_CornerLCD" xml:space="preserve">
+    <value>角落液晶斜内-jlyjxn-[LCD]</value>
+  </data>
+  <data name="DisplayName_Block_CornerLCD2" xml:space="preserve">
+    <value>角落液晶斜外-jlyjxw-[LCD]</value>
+  </data>
+  <data name="DisplayName_Block_CornerLCDFlatBottom" xml:space="preserve">
+    <value>角落液晶竖立-jlyjsl-[LCD]</value>
+  </data>
+  <data name="DisplayName_Block_CornerLCDFlatTop" xml:space="preserve">
+    <value>角落液晶平躺-jlyjpt-[LCD]</value>
   </data>
   <data name="DisplayName_MarsLander" xml:space="preserve">
     <value>火星登陆</value>
