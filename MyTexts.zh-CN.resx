@@ -431,6 +431,250 @@
 
 使用{0}你可以快速挖矿而不产生矿石。</value>
   </data>
+  <!-- Item -->
+  <data name="DisplayName_Item_Organic" xml:space="preserve">
+    <value>有机物-yjw-</value>
+  </data>
+  <data name="DisplayName_Item_Oxygen" xml:space="preserve">
+    <value>氧气-yq-</value>
+  </data>
+  <data name="DisplayName_Item_Hydrogen" xml:space="preserve">
+    <value>氢气-qq-</value>
+  </data>
+  <data name="DisplayName_Item_Potassium" xml:space="preserve">
+    <value>钾-K-</value>
+  </data>
+  <data name="DisplayName_Item_ZoneChip" xml:space="preserve">
+    <value>区域筹码-qycm-</value>
+  </data>
+  <data name="DisplayName_Item_Package" xml:space="preserve">
+    <value>包-Bao-</value>
+  </data>
+  <data name="DisplayName_Item_Medkit" xml:space="preserve">
+    <value>医疗箱-ylx-</value>
+  </data>
+  <data name="DisplayName_Item_Powerkit" xml:space="preserve">
+    <value>电力装置-dlzz-</value>
+  </data>
+  <data name="DisplayName_Item_SpaceCredit" xml:space="preserve">
+    <value>太空货币-tkhb-</value>
+  </data>
+  <data name="DisplayName_Item_ClangCola" xml:space="preserve">
+    <value>叮当可乐-ddkl-</value>
+  </data>
+  <data name="DisplayName_Item_CosmicCoffee" xml:space="preserve">
+    <value>宇宙咖啡-yzkf-</value>
+  </data>
+  <!-- Item：零件 -->
+  <data name="DisplayName_Item_BulletproofGlass" xml:space="preserve">
+    <value>防弹玻璃-fdbl-</value>
+  </data>
+  <data name="DisplayName_Item_CanvasCartridge" xml:space="preserve">
+    <value>帆布-fb-</value>
+  </data>
+  <data name="DisplayName_Item_Computer" xml:space="preserve">
+    <value>计算机-jsj-</value>
+  </data>
+  <data name="DisplayName_Item_ConstructionComponent" xml:space="preserve">
+    <value>结构零件-jglj-</value>
+  </data>
+  <data name="DisplayName_Item_Datapad" xml:space="preserve">
+    <value>数据板-sjb-</value>
+  </data>
+  <data name="DisplayName_Item_DetectorComponents" xml:space="preserve">
+    <value>探测器零件-tcqlj-</value>
+  </data>
+  <data name="DisplayName_Item_Display" xml:space="preserve">
+    <value>显示器-xsq-</value>
+  </data>
+  <data name="DisplayName_Item_Explosives" xml:space="preserve">
+    <value>爆炸物-bzw-</value>
+  </data>
+  <data name="DisplayName_Item_Girder" xml:space="preserve">
+    <value>梁-liang-</value>
+  </data>
+  <data name="DisplayName_Item_GravityGeneratorComponents" xml:space="preserve">
+    <value>重力发生器零件-zlfsqlj-</value>
+  </data>
+  <data name="DisplayName_Item_InteriorPlate" xml:space="preserve">
+    <value>内衬板-ncb-</value>
+  </data>
+  <data name="DisplayName_Item_LargeSteelTube" xml:space="preserve">
+    <value>大型钢管-dxgg-</value>
+  </data>
+  <data name="DisplayName_Item_MedicalComponents" xml:space="preserve">
+    <value>医疗零件-yllj-</value>
+  </data>
+  <data name="DisplayName_Item_MetalGrid" xml:space="preserve">
+    <value>金属网格-jswg-</value>
+  </data>
+  <data name="DisplayName_Item_Missile200mm" xml:space="preserve">
+    <value>200mm 导弹收纳箱-ddsnx-</value>
+  </data>
+  <data name="DisplayName_Item_Motor" xml:space="preserve">
+    <value>马达-md-</value>
+  </data>
+  <data name="DisplayName_Item_NATO_25x184mm" xml:space="preserve">
+    <value>25x184mm 纳托制式弹收纳箱-ntzsdsnx-</value>
+  </data>
+  <data name="DisplayName_Item_NATO_5p56x45mm" xml:space="preserve">
+    <value>5.56x45mm 纳托制式弹弹匣-ntzsddj-</value>
+  </data>
+  <data name="DisplayName_Item_PowerCell" xml:space="preserve">
+    <value>动力电池-dldc-</value>
+  </data>
+  <data name="DisplayName_Item_RadioCommunicationComponents" xml:space="preserve">
+    <value>无线电零件-wxdlj-</value>
+  </data>
+  <data name="DisplayName_Item_ReactorComponents" xml:space="preserve">
+    <value>反应堆零件-fydlj-</value>
+  </data>
+  <data name="DisplayName_Item_Scrap" xml:space="preserve">
+    <value>废金属-fjs-</value>
+  </data>
+  <data name="DisplayName_Item_ScrapIngot" xml:space="preserve">
+    <value>废旧金属-fjjs-</value>
+  </data>
+  <data name="DisplayName_Item_SmallSteelTube" xml:space="preserve">
+    <value>小钢管-xgg-</value>
+  </data>
+  <data name="DisplayName_Item_SolarCell" xml:space="preserve">
+    <value>太阳能电池板-tyndcb-</value>
+  </data>
+  <data name="DisplayName_Item_SteelPlate" xml:space="preserve">
+    <value>钢板-gb-</value>
+  </data>
+  <data name="DisplayName_Item_Superconductor" xml:space="preserve">
+    <value>超导体-cdt-</value>
+  </data>
+  <data name="DisplayName_Item_ThrustComponents" xml:space="preserve">
+    <value>推进器零件-tjqlj-</value>
+  </data>
+  <!-- Item：矿石和矿锭 -->
+  <data name="DisplayName_Item_StoneOre" xml:space="preserve">
+    <value>石头-st-</value>
+  </data>
+  <data name="DisplayName_Item_Gravel" xml:space="preserve">
+    <value>沙石-ss-</value>
+  </data>
+  <data name="DisplayName_Item_Ice" xml:space="preserve">
+    <value>冰-Bing-</value>
+  </data>
+  <data name="DisplayName_Item_IronOre" xml:space="preserve">
+    <value>铁矿-FeO-</value>
+  </data>
+  <data name="DisplayName_Item_IronIngot" xml:space="preserve">
+    <value>铁锭-FeI-</value>
+  </data>
+  <data name="DisplayName_Item_CobaltOre" xml:space="preserve">
+    <value>钴矿-CoO-</value>
+  </data>
+  <data name="DisplayName_Item_CobaltIngot" xml:space="preserve">
+    <value>钴锭-CoI-</value>
+  </data>
+  <data name="DisplayName_Item_NickelOre" xml:space="preserve">
+    <value>镍矿-NiO-</value>
+  </data>
+  <data name="DisplayName_Item_NickelIngot" xml:space="preserve">
+    <value>镍锭-NiI-</value>
+  </data>
+  <data name="DisplayName_Item_MagnesiumOre" xml:space="preserve">
+    <value>镁矿-MgO-</value>
+  </data>
+  <data name="DisplayName_Item_MagnesiumPowder" xml:space="preserve">
+    <value>镁粉-MgI-</value>
+  </data>
+  <data name="DisplayName_Item_SiliconOre" xml:space="preserve">
+    <value>硅矿-SiO-</value>
+  </data>
+  <data name="DisplayName_Item_SiliconWafer" xml:space="preserve">
+    <value>硅片-SiI-</value>
+  </data>
+  <data name="DisplayName_Item_GoldOre" xml:space="preserve">
+    <value>金矿-AuO-</value>
+  </data>
+  <data name="DisplayName_Item_GoldIngot" xml:space="preserve">
+    <value>金锭-AuI-</value>
+  </data>
+  <data name="DisplayName_Item_SilverOre" xml:space="preserve">
+    <value>银矿-AgO-</value>
+  </data>
+  <data name="DisplayName_Item_SilverIngot" xml:space="preserve">
+    <value>银锭-AgI-</value>
+  </data>
+  <data name="DisplayName_Item_UraniumOre" xml:space="preserve">
+    <value>铀矿-UO-</value>
+  </data>
+  <data name="DisplayName_Item_UraniumIngot" xml:space="preserve">
+    <value>铀棒-UI-</value>
+  </data>
+  <data name="DisplayName_Item_PlatinumOre" xml:space="preserve">
+    <value>铂金矿-PtO-</value>
+  </data>
+  <data name="DisplayName_Item_PlatinumIngot" xml:space="preserve">
+    <value>铂金锭-PtI-</value>
+  </data>
+  <!-- Item：手持工具 -->
+  <data name="DisplayName_Item_OxygenBottle" xml:space="preserve">
+    <value>氧气瓶-yqp-</value>
+  </data>
+  <data name="DisplayName_Item_OxygenBottles" xml:space="preserve">
+    <value>氧气瓶（复数）-yqps-</value>
+  </data>
+  <data name="DisplayName_Item_HydrogenBottle" xml:space="preserve">
+    <value>氢气瓶-qqp-</value>
+  </data>
+  <data name="DisplayName_Item_HydrogenBottles" xml:space="preserve">
+    <value>氢气瓶（复数）-qqps-</value>
+  </data>
+  <data name="DisplayName_Item_AutomaticRifle" xml:space="preserve">
+    <value>零级自动步枪-ljzdbq-</value>
+  </data>
+  <data name="DisplayName_Item_RapidFireAutomaticRifle" xml:space="preserve">
+    <value>一级自动步枪-yjzdbq-</value>
+  </data>
+  <data name="DisplayName_Item_PreciseAutomaticRifle" xml:space="preserve">
+    <value>二级自动步枪-ejzdbq-</value>
+  </data>
+  <data name="DisplayName_Item_EliteAutomaticRifle" xml:space="preserve">
+    <value>三级自动步枪-sjzdbq-</value>
+  </data>
+  <data name="DisplayName_Item_AngleGrinder" xml:space="preserve">
+    <value>零级切割机-ljqgj-</value>
+  </data>
+  <data name="DisplayName_Item_Welder" xml:space="preserve">
+    <value>零级焊接器-ljhjq-</value>
+  </data>
+  <data name="DisplayName_Item_Welder2" xml:space="preserve">
+    <value>一级焊接器-yjhjq-</value>
+  </data>
+  <data name="DisplayName_Item_Welder3" xml:space="preserve">
+    <value>二级焊接器-ejhjq-</value>
+  </data>
+  <data name="DisplayName_Item_Welder4" xml:space="preserve">
+    <value>三级焊接器-sjhjq-</value>
+  </data>
+  <data name="DisplayName_Item_AngleGrinder2" xml:space="preserve">
+    <value>一级切割机-yjqgj-</value>
+  </data>
+  <data name="DisplayName_Item_AngleGrinder3" xml:space="preserve">
+    <value>二级切割机-ejqgj-</value>
+  </data>
+  <data name="DisplayName_Item_AngleGrinder4" xml:space="preserve">
+    <value>三级切割机-sjqgj-</value>
+  </data>
+  <data name="DisplayName_Item_HandDrill" xml:space="preserve">
+    <value>零级手电钻-ljsdz-</value>
+  </data>
+  <data name="DisplayName_Item_HandDrill2" xml:space="preserve">
+    <value>一级手电钻-yjsdz-</value>
+  </data>
+  <data name="DisplayName_Item_HandDrill3" xml:space="preserve">
+    <value>二级手电钻-ejsdz-</value>
+  </data>
+  <data name="DisplayName_Item_HandDrill4" xml:space="preserve">
+    <value>三级手电钻-sjsdz-</value>
+  </data>
   <!-- 检查过的文本：结束 -->  
   <data name="Add" xml:space="preserve">
     <value>加入</value>
@@ -3654,223 +3898,6 @@
   </data>
   <data name="DisplayName_GridCreateTool_CreateStation" xml:space="preserve">
     <value>新站</value>
-  </data>
-  <data name="DisplayName_Item_AngleGrinder" xml:space="preserve">
-    <value>切割机-qgj-</value>
-    <comment>Angle grinder hand tool for dismounting blocks</comment>
-  </data>
-  <data name="DisplayName_Item_AngleGrinder2" xml:space="preserve">
-    <value>一级增强切割机-yjzqkgj-</value>
-  </data>
-  <data name="DisplayName_Item_AngleGrinder3" xml:space="preserve">
-    <value>二级精通切割机-ejjtqgj-</value>
-  </data>
-  <data name="DisplayName_Item_AngleGrinder4" xml:space="preserve">
-    <value>三级精英切割机-sjjyqgj-</value>
-  </data>
-  <data name="DisplayName_Item_AutomaticRifle" xml:space="preserve">
-    <value>自动步枪-zdbq-</value>
-  </data>
-  <data name="DisplayName_Item_BulletproofGlass" xml:space="preserve">
-    <value>防弹玻璃-fdbl-</value>
-  </data>
-  <data name="DisplayName_Item_CanvasCartridge" xml:space="preserve">
-    <value>帆布-fb-</value>
-  </data>
-  <data name="DisplayName_Item_CobaltIngot" xml:space="preserve">
-    <value>钴锭-CoI-</value>
-  </data>
-  <data name="DisplayName_Item_CobaltOre" xml:space="preserve">
-    <value>钴矿-CoO-</value>
-  </data>
-  <data name="DisplayName_Item_Computer" xml:space="preserve">
-    <value>计算机-jsj-</value>
-  </data>
-  <data name="DisplayName_Item_ConstructionComponent" xml:space="preserve">
-    <value>结构零件-jglj-</value>
-  </data>
-  <data name="DisplayName_Item_DetectorComponents" xml:space="preserve">
-    <value>探测器零件-tcqlj-</value>
-  </data>
-  <data name="DisplayName_Item_Display" xml:space="preserve">
-    <value>显示器</value>
-  </data>
-  <data name="DisplayName_Item_EliteAutomaticRifle" xml:space="preserve">
-    <value>精锐自动步枪-jrzdbq-</value>
-  </data>
-  <data name="DisplayName_Item_Explosives" xml:space="preserve">
-    <value>爆炸物-bzw-</value>
-  </data>
-  <data name="DisplayName_Item_Girder" xml:space="preserve">
-    <value>梁-liang-</value>
-  </data>
-  <data name="DisplayName_Item_GoldIngot" xml:space="preserve">
-    <value>金锭-AuI-</value>
-  </data>
-  <data name="DisplayName_Item_GoldOre" xml:space="preserve">
-    <value>金矿-AuO-</value>
-  </data>
-  <data name="DisplayName_Item_Gravel" xml:space="preserve">
-    <value>沙石</value>
-  </data>
-  <data name="DisplayName_Item_GravityGeneratorComponents" xml:space="preserve">
-    <value>重力发生器零件-zlfsqlj-</value>
-  </data>
-  <data name="DisplayName_Item_HandDrill" xml:space="preserve">
-    <value>手电钻-sqz-</value>
-  </data>
-  <data name="DisplayName_Item_HandDrill2" xml:space="preserve">
-    <value>一级增强手电钻-yjzqsdz-</value>
-  </data>
-  <data name="DisplayName_Item_HandDrill3" xml:space="preserve">
-    <value>二级精通手电钻-ejjtsdz-</value>
-  </data>
-  <data name="DisplayName_Item_HandDrill4" xml:space="preserve">
-    <value>三级精英手电钻-sjjysdz-</value>
-  </data>
-  <data name="DisplayName_Item_Hydrogen" xml:space="preserve">
-    <value>氢气</value>
-  </data>
-  <data name="DisplayName_Item_HydrogenBottle" xml:space="preserve">
-    <value>氢气瓶-qqp-</value>
-  </data>
-  <data name="DisplayName_Item_HydrogenBottles" xml:space="preserve">
-    <value>氢气瓶-qqp-</value>
-  </data>
-  <data name="DisplayName_Item_Ice" xml:space="preserve">
-    <value>冰</value>
-  </data>
-  <data name="DisplayName_Item_InteriorPlate" xml:space="preserve">
-    <value>内衬板-ncb-</value>
-  </data>
-  <data name="DisplayName_Item_IronIngot" xml:space="preserve">
-    <value>铁锭-FeI-</value>
-  </data>
-  <data name="DisplayName_Item_IronOre" xml:space="preserve">
-    <value>铁矿-FeO-</value>
-  </data>
-  <data name="DisplayName_Item_LargeSteelTube" xml:space="preserve">
-    <value>大型钢管-dxgg-</value>
-  </data>
-  <data name="DisplayName_Item_MagnesiumOre" xml:space="preserve">
-    <value>镁矿-MgO-</value>
-  </data>
-  <data name="DisplayName_Item_MagnesiumPowder" xml:space="preserve">
-    <value>镁粉-MgI-</value>
-  </data>
-  <data name="DisplayName_Item_MedicalComponents" xml:space="preserve">
-    <value>医疗零件-yllj-</value>
-  </data>
-  <data name="DisplayName_Item_MetalGrid" xml:space="preserve">
-    <value>金属网格-jswg-</value>
-  </data>
-  <data name="DisplayName_Item_Missile200mm" xml:space="preserve">
-    <value>200mm 导弹收纳箱-ddsnx-</value>
-  </data>
-  <data name="DisplayName_Item_Motor" xml:space="preserve">
-    <value>马达-md-</value>
-  </data>
-  <data name="DisplayName_Item_NATO_25x184mm" xml:space="preserve">
-    <value>25x184mm 纳托制式弹收纳箱-byzsdsnx-</value>
-  </data>
-  <data name="DisplayName_Item_NATO_5p56x45mm" xml:space="preserve">
-    <value>5.56x45mm 纳托制式弹弹匣-byzsddj-</value>
-  </data>
-  <data name="DisplayName_Item_NickelIngot" xml:space="preserve">
-    <value>镍锭-NiI-</value>
-  </data>
-  <data name="DisplayName_Item_NickelOre" xml:space="preserve">
-    <value>镍矿-NiO-</value>
-  </data>
-  <data name="DisplayName_Item_Organic" xml:space="preserve">
-    <value>有机物</value>
-  </data>
-  <data name="DisplayName_Item_Oxygen" xml:space="preserve">
-    <value>氧气</value>
-  </data>
-  <data name="DisplayName_Item_OxygenBottle" xml:space="preserve">
-    <value>氧气瓶-yqp-</value>
-  </data>
-  <data name="DisplayName_Item_OxygenBottles" xml:space="preserve">
-    <value>氧气瓶-yqp-</value>
-  </data>
-  <data name="DisplayName_Item_PlatinumIngot" xml:space="preserve">
-    <value>铂金锭-PtI-</value>
-  </data>
-  <data name="DisplayName_Item_PlatinumOre" xml:space="preserve">
-    <value>铂金矿-PtO-</value>
-  </data>
-  <data name="DisplayName_Item_Potassium" xml:space="preserve">
-    <value>钾-K-</value>
-  </data>
-  <data name="DisplayName_Item_PowerCell" xml:space="preserve">
-    <value>动力电池-dldc-</value>
-  </data>
-  <data name="DisplayName_Item_PreciseAutomaticRifle" xml:space="preserve">
-    <value>精密自动步枪-jmzdbq-</value>
-  </data>
-  <data name="DisplayName_Item_RadioCommunicationComponents" xml:space="preserve">
-    <value>无线电零件-wxdlj-</value>
-  </data>
-  <data name="DisplayName_Item_RapidFireAutomaticRifle" xml:space="preserve">
-    <value>速射自动步枪-sszdbq-</value>
-  </data>
-  <data name="DisplayName_Item_ReactorComponents" xml:space="preserve">
-    <value>反应堆零件-fydlj-</value>
-  </data>
-  <data name="DisplayName_Item_Scrap" xml:space="preserve">
-    <value>废金属-fjs-</value>
-  </data>
-  <data name="DisplayName_Item_ScrapIngot" xml:space="preserve">
-    <value>废旧金属-fjjs-</value>
-  </data>
-  <data name="DisplayName_Item_SiliconOre" xml:space="preserve">
-    <value>硅矿-SiO-</value>
-  </data>
-  <data name="DisplayName_Item_SiliconWafer" xml:space="preserve">
-    <value>硅片-SiI-</value>
-  </data>
-  <data name="DisplayName_Item_SilverIngot" xml:space="preserve">
-    <value>银锭-AgI-</value>
-  </data>
-  <data name="DisplayName_Item_SilverOre" xml:space="preserve">
-    <value>银矿-AgO-</value>
-  </data>
-  <data name="DisplayName_Item_SmallSteelTube" xml:space="preserve">
-    <value>小钢管-xgg-</value>
-  </data>
-  <data name="DisplayName_Item_SolarCell" xml:space="preserve">
-    <value>太阳能电池板-tyndcb-</value>
-  </data>
-  <data name="DisplayName_Item_SteelPlate" xml:space="preserve">
-    <value>钢板-gb-</value>
-  </data>
-  <data name="DisplayName_Item_StoneOre" xml:space="preserve">
-    <value>石头</value>
-  </data>
-  <data name="DisplayName_Item_Superconductor" xml:space="preserve">
-    <value>超导体-cdt-</value>
-  </data>
-  <data name="DisplayName_Item_ThrustComponents" xml:space="preserve">
-    <value>推进器零件-tjqlj-</value>
-  </data>
-  <data name="DisplayName_Item_UraniumIngot" xml:space="preserve">
-    <value>铀棒-UI-</value>
-  </data>
-  <data name="DisplayName_Item_UraniumOre" xml:space="preserve">
-    <value>铀矿-UO-</value>
-  </data>
-  <data name="DisplayName_Item_Welder" xml:space="preserve">
-    <value>焊接器-hjq-</value>
-  </data>
-  <data name="DisplayName_Item_Welder2" xml:space="preserve">
-    <value>一级增强焊接器-yjzqhjq-</value>
-  </data>
-  <data name="DisplayName_Item_Welder3" xml:space="preserve">
-    <value>二级增强焊接器-ejzqhjq-</value>
-  </data>
-  <data name="DisplayName_Item_Welder4" xml:space="preserve">
-    <value>三级增强焊接器-syjzqhjq-</value>
   </data>
   <data name="DisplayName_Block_TextPanel" xml:space="preserve">
     <value>文本液晶显示器-wbyjxsq-[LCD]</value>
@@ -10413,12 +10440,6 @@ PVP意味着你可以伤害其他玩家，他们也可以伤害你。</value>
   <data name="Beacon_SafeZone_Info_Inactive" xml:space="preserve">
     <value>已失效</value>
   </data>
-  <data name="DisplayName_Item_Datapad" xml:space="preserve">
-    <value>数据板</value>
-  </data>
-  <data name="DisplayName_Item_ZoneChip" xml:space="preserve">
-    <value>区域筹码</value>
-  </data>
   <data name="DatapadEditEcreen_Caption" xml:space="preserve">
     <value>数据板编辑器</value>
   </data>
@@ -11439,9 +11460,6 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
   </data>
   <data name="GameOptions_EnableTrading_TTIP" xml:space="preserve">
     <value>启动在联机游戏中与玩家交易。如果禁用将会忽视所有的交易请求</value>
-  </data>
-  <data name="DisplayName_Item_Package" xml:space="preserve">
-    <value>包</value>
   </data>
   <data name="Faction_Discovered_Info" xml:space="preserve">
     <value>你已发现{0}</value>
@@ -12581,17 +12599,8 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
   <data name="ContractScreen_ObtainDeliver_ItemVolume" xml:space="preserve">
     <value>体积：</value>
   </data>
-  <data name="DisplayName_Item_Medkit" xml:space="preserve">
-    <value>医疗箱</value>
-  </data>
   <data name="DisplayName_Category_Consumables" xml:space="preserve">
     <value>消耗品</value>
-  </data>
-  <data name="DisplayName_Item_Powerkit" xml:space="preserve">
-    <value>电力装置</value>
-  </data>
-  <data name="DisplayName_Item_SpaceCredit" xml:space="preserve">
-    <value>太空货币</value>
   </data>
   <data name="StoreBlockView_CashBack" xml:space="preserve">
     <value>退款：</value>
@@ -13226,12 +13235,6 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
   </data>
   <data name="Jukebox_Script_SelectInTerminal" xml:space="preserve">
     <value>选择曲目，在终端屏幕播放</value>
-  </data>
-  <data name="DisplayName_Item_ClangCola" xml:space="preserve">
-    <value>叮当可乐</value>
-  </data>
-  <data name="DisplayName_Item_CosmicCoffee" xml:space="preserve">
-    <value>宇宙咖啡</value>
   </data>
   <data name="Description_ClangKola" xml:space="preserve">
     <value>口味奇重的可乐。此美味饮品配方的保密性在整个太阳系最高。</value>
