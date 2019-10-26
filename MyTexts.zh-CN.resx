@@ -117,6 +117,321 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <!-- 检查过的文本：开始 -->
+  <!-- Hint -->
+  <data name="Hint00Text" xml:space="preserve">
+    <value>小贴士：
+
+
+在任何一个驾驶舱中按 Ctrl-G 进入建造模式.</value>
+  </data>
+  <data name="Hint01Text" xml:space="preserve">
+    <value>小贴士：
+
+
+输入/f和你的阵营聊天，/g可以全球聊天。</value>
+  </data>
+  <data name="Hint02Text" xml:space="preserve">
+    <value>小贴士：
+
+
+轮子悬挂取决于能耗设定。</value>
+  </data>
+  <data name="Hint03Text" xml:space="preserve">
+    <value>小贴士：
+
+
+在主驾驶仓中，控制炮塔时可以按住Alt键开启鼠标控制。</value>
+  </data>
+  <data name="Hint04Text" xml:space="preserve">
+    <value>小贴士：
+
+
+在游戏里卡住了？按 {0} 返回复活点，在医疗站重生。</value>
+  </data>
+  <data name="Hint05Text" xml:space="preserve">
+    <value>小贴士：
+
+
+用喷气包飞行时，使用相对抑制器能使人和附近的网格的移动速度保持一致。</value>
+  </data>
+  <data name="Hint06Text" xml:space="preserve">
+    <value>小贴士：
+
+
+诱饵有时可以决定一场战争胜负。</value>
+  </data>
+  <data name="Hint07Text" xml:space="preserve">
+    <value>小贴士：
+
+
+流星砸过的大坑中会留下一点资源。</value>
+  </data>
+  <data name="Hint08Text" xml:space="preserve">
+    <value>小贴士：
+
+
+行星上的黑斑下面藏着矿脉。</value>
+  </data>
+  <data name="Hint09Text" xml:space="preserve">
+    <value>小贴士：
+
+
+行星表面的大石头往往含有许多矿物。</value>
+  </data>
+  <data name="Hint10Text" xml:space="preserve">
+    <value>小贴士：
+
+
+开车时，可以按住 {0} 刹车。</value>
+  </data>
+  <data name="Hint11Text" xml:space="preserve">
+    <value>小贴士：
+
+
+在行星上使用喷气背包时，氢燃料很快耗尽。</value>
+  </data>
+  <data name="Hint12Text" xml:space="preserve">
+    <value>小贴士：
+
+
+按下 {0} 打开颜色选择器。</value>
+  </data>
+  <data name="Hint13Text" xml:space="preserve">
+    <value>小贴士：
+
+
+电池能按照设定自动充放电。</value>
+  </data>
+  <data name="Hint14Text" xml:space="preserve">
+    <value>小贴士：
+
+
+升级模块可以提升精炼和组装的效率。</value>
+  </data>
+  <data name="Hint15Text" xml:space="preserve">
+    <value>小贴士：
+
+
+高级精炼厂在炼矿物时，产出较高。</value>
+  </data>
+  <data name="Hint16Text" xml:space="preserve">
+    <value>小贴士：
+
+
+战车无法前行时，能使用轮子悬挂跳出。</value>
+  </data>
+  <data name="Hint17Text" xml:space="preserve">
+    <value>小贴士：
+
+
+切割机在拆卸货柜时也会同时回收货柜里的物品</value>
+  </data>
+  <data name="Hint18Text" xml:space="preserve">
+    <value>小贴士：
+
+
+风力涡轮机放到较高而且空旷的地方效能更高。</value>
+  </data>
+  <data name="Hint19Text" xml:space="preserve">
+    <value>小贴士：
+
+
+你可以用传感器探测出企图从地下潜入你的基地的敌人。</value>
+  </data>
+  <data name="Hint20Text" xml:space="preserve">
+    <value>小贴士：
+
+
+医疗室可以给你充电，恢复生命，效率比生存装置高五倍。</value>
+  </data>
+  <data name="Hint21Text" xml:space="preserve">
+    <value>小贴士：
+
+
+可以手动控制炮塔攻击目标。</value>
+  </data>
+  <data name="Hint22Text" xml:space="preserve">
+    <value>小贴士：
+
+
+磁力靴只能在无重力的环境工作。</value>
+  </data>
+  <data name="Hint23Text" xml:space="preserve">
+    <value>小贴士：
+
+
+宇航服在寒冷或者炎热的地方耗电较快。</value>
+  </data>
+  <data name="Hint24Text" xml:space="preserve">
+    <value>小贴士：
+
+
+弹头在装配前很安全</value>
+  </data>
+  <data name="Hint25Text" xml:space="preserve">
+    <value>小贴士：
+
+
+在没有氢气罐的情况下，氧气/氢气制造机可以生产少量氢气供应推进器。</value>
+  </data>
+  <data name="Hint26Text" xml:space="preserve">
+    <value>小贴士：
+
+
+加压环境能让你维持最舒适的温度，提高生命值和氧气。</value>
+  </data>
+  <data name="Hint27Text" xml:space="preserve">
+    <value>小贴士：
+
+
+方块被攻击或碰撞的时候会对周围造成伤害。</value>
+  </data>
+  <data name="HintKeyboardOnly00Text" xml:space="preserve">
+    <value>小贴士：
+
+
+按 {0} 改变GPS和天线在屏幕上的显示方式。</value>
+  </data>
+  <data name="HintKeyboardOnly01Text" xml:space="preserve">
+    <value>小贴士：
+
+
+可以使用 {0} 打开/关闭方块自动旋转功能.</value>
+  </data>
+  <data name="HintKeyboardOnly02Text" xml:space="preserve">
+    <value>小贴士：
+
+
+按Shift-{0} 可以直接进入远程控制菜单。</value>
+  </data>
+  <data name="HintKeyboardOnly03Text" xml:space="preserve">
+    <value>小贴士：
+
+
+焊接时，双击可以使工具保持不间断工作。</value>
+  </data>
+  <data name="HintKeyboardOnly04Text" xml:space="preserve">
+    <value>小贴士：
+
+
+使用摄像机和自动炮塔时，可以移动鼠标滚轮放大缩小视角。</value>
+  </data>
+  <data name="HintKeyboardOnly05Text" xml:space="preserve">
+    <value>小贴士：
+
+
+使用钻头时可以按住鼠标右键，不会产生矿石，这样能快速挖隧道。</value>
+  </data>
+  <data name="HintKeyboardOnly06Text" xml:space="preserve">
+    <value>小贴士：
+
+
+按住 Ctrl, Shift 或 Ctrl-Shift 转移 10, 100 或 1000 个物品。</value>
+  </data>
+  <data name="HintKeyboardOnly07Text" xml:space="preserve">
+    <value>小贴士：
+
+
+双击物品可以转移整堆物品。</value>
+  </data>
+  <data name="HintKeyboardOnly08Text" xml:space="preserve">
+    <value>小贴士：
+
+
+当你在创造模式引用蓝图时，按 B 对齐行星重力。</value>
+  </data>
+  <data name="HintKeyboardOnly09Text" xml:space="preserve">
+    <value>小贴士：
+
+
+按 CTRL-B 保存蓝图 。 按 F10 打开蓝图菜单。</value>
+  </data>
+  <data name="HintGamepadOnly00Text" xml:space="preserve">
+    <value>小贴士：
+
+
+创意模式时，你可以用{0}使手上的蓝图和行星的引力一致。</value>
+  </data>
+  <data name="HintGamepadOnly01Text" xml:space="preserve">
+    <value>小贴士：
+
+
+{0}和{1}为修改键。在游戏中，做动作的时候，试着按住它们。多数情况下你会发现每次做的动作都不太一样。</value>
+  </data>
+  <data name="HintGamepadOnly02Text" xml:space="preserve">
+    <value>小贴士：
+
+
+在生存模式放方块的时候，如果出错了，你可以按{0}切换到切割机。手上有切割机的时候，你可以按{0}切换到之前的方块。</value>
+  </data>
+  <data name="HintGamepadOnly03Text" xml:space="preserve">
+    <value>小贴士：
+
+
+你可以用{0}，这样在复杂的窗户区行走更容易。</value>
+  </data>
+  <data name="HintGamepadOnly04Text" xml:space="preserve">
+    <value>小贴士：
+
+
+按住{0}+{1}，移动{2}和{3}，摄像机可以围着你和飞船旋转。</value>
+  </data>
+  <data name="HintGamepadOnly05Text" xml:space="preserve">
+    <value>小贴士：
+
+
+使用摄像机和炮塔的时候，可以按{0}调焦距。</value>
+  </data>
+  <data name="HintGamepadOnly06Text" xml:space="preserve">
+    <value>小贴士：
+
+
+你可以从圆形菜单中修改屏幕中的GPS坐标和天线。</value>
+  </data>
+  <data name="HintGamepadOnly07Text" xml:space="preserve">
+    <value>小贴士：
+
+
+在建造对称飞船时，可在系统圆形菜单中激活对称建造模式。</value>
+  </data>
+  <data name="HintGamepadOnly08Text" xml:space="preserve">
+    <value>小贴士：
+
+
+按住{0}，{1}或者{0}{1}你可以移动的物品的数量成10倍增加。</value>
+  </data>
+  <data name="HintGamepadOnly09Text" xml:space="preserve">
+    <value>小贴士：
+
+
+你可以按住{0}和{1}打开表情工具栏。</value>
+  </data>
+  <data name="HintGamepadOnly10Text" xml:space="preserve">
+    <value>小贴士：
+
+
+你可以用体素手修整体素。创意模式时，可以从系统圆形菜单进入。可以按{0}{1}{2}+{0}和{2}+{1}进行放置，恢复和喷涂。</value>
+  </data>
+  <data name="HintGamepadOnly11Text" xml:space="preserve">
+    <value>小贴士：
+
+
+你可以按{0}禁用自动旋转功能</value>
+  </data>
+  <data name="HintGamepadOnly12Text" xml:space="preserve">
+    <value>小贴士：
+
+
+如果驾驶舱为主驾驶舱，你可以从炮塔开走车，按住{0}控制转向。</value>
+  </data>
+  <data name="HintGamepadOnly13Text" xml:space="preserve">
+    <value>小贴士：
+
+
+使用{0}你可以快速挖矿而不产生矿石。</value>
+  </data>
+  <!-- 检查过的文本：结束 -->  
   <data name="Add" xml:space="preserve">
     <value>加入</value>
   </data>
@@ -4036,205 +4351,6 @@
   </data>
   <data name="HideEmpty" xml:space="preserve">
     <value>隐藏空的</value>
-  </data>
-  <data name="Hint00Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-在任何一个驾驶舱中按 Ctrl-G 进入建造模式.</value>
-  </data>
-  <data name="HintKeyboardOnly01Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-可以使用 {0} 打开/关闭方块自动旋转功能.</value>
-  </data>
-  <data name="HintKeyboardOnly02Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-按Shift-{0} 可以直接进入远程控制菜单。</value>
-  </data>
-  <data name="Hint03Text" xml:space="preserve">
-    <value>在主驾驶仓中，控制炮塔时可以
-按住Alt键开启鼠标控制。</value>
-  </data>
-  <data name="Hint04Text" xml:space="preserve">
-    <value>在游戏里卡住了？
-  
-  
-按{0}返回复活点，在医疗站重生。。</value>
-  </data>
-  <data name="HintKeyboardOnly05Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-使用钻头时可以按住鼠标右键，不会产生矿石，这样能快速挖隧道。</value>
-  </data>
-  <data name="Hint06Text" xml:space="preserve">
-    <value>小贴士: 诱饵有时可以决定一场战争胜负。</value>
-  </data>
-  <data name="Hint07Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-流星砸过的大坑中会留下一点资源。</value>
-  </data>
-  <data name="Hint08Text" xml:space="preserve">
-    <value>小贴士： 
-  
-  
-行星上的黑斑下面藏着矿脉。</value>
-  </data>
-  <data name="Hint09Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-行星表面的大石头往往含有许多矿物。</value>
-  </data>
-  <data name="Hint10Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-开车时，可以按住 {0} 刹车。</value>
-  </data>
-  <data name="Hint11Text" xml:space="preserve">
-    <value>小贴士: 在行星上使用喷气背包时，氢燃料很快耗尽。</value>
-  </data>
-  <data name="Hint12Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-按下 {0} 打开颜色选择器。</value>
-  </data>
-  <data name="Hint13Text" xml:space="preserve">
-    <value>电池能按照设定自动充放电。</value>
-  </data>
-  <data name="Hint14Text" xml:space="preserve">
-    <value>小贴士: 升级模块可以提升精炼和组装的效率。</value>
-  </data>
-  <data name="HintKeyboardOnly09Text" xml:space="preserve">
-    <value>小贴士: 按 CTRL-B 保存蓝图 。 按 F10 打开蓝图菜单。</value>
-  </data>
-  <data name="HintKeyboardOnly08Text" xml:space="preserve">
-    <value>小贴士: 当你在创造模式引用蓝图时，按 B 对齐行星重力。</value>
-  </data>
-  <data name="Hint17Text" xml:space="preserve">
-    <value>小贴士: 切割机在拆卸货柜时也会同时回收货柜里的物品</value>
-  </data>
-  <data name="HintKeyboardOnly07Text" xml:space="preserve">
-    <value>小贴士: 双击物品可以转移整堆物品。</value>
-  </data>
-  <data name="HintKeyboardOnly06Text" xml:space="preserve">
-    <value>小贴士: 按住 Ctrl, Shift 或 Ctrl-Shift 转移 10, 100 或 1000 个物品。</value>
-  </data>
-  <data name="HintKeyboardOnly04Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-使用摄像机和自动炮塔时，可以移动鼠标滚轮放大缩小视角。</value>
-  </data>
-  <data name="Hint21Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-可以手动控制炮塔攻击目标。</value>
-  </data>
-  <data name="Hint22Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-磁力靴只能在无重力的环境工作。</value>
-  </data>
-  <data name="HintKeyboardOnly03Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-焊接时，双击可以使工具保持不间断工作。</value>
-  </data>
-  <data name="Hint24Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-弹头在装配前很安全</value>
-  </data>
-  <data name="Hint25Text" xml:space="preserve">
-    <value>小贴士：
-    
-    
-在没有氢气罐的情况下，氧气/氢气制造机可以生产少量氢气供应推进器。</value>
-  </data>
-  <data name="HintKeyboardOnly00Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-按 {0} 改变GPS和天线在屏幕上的显示方式。</value>
-  </data>
-  <data name="Hint27Text" xml:space="preserve">
-    <value>小贴士
-
-
-方块被攻击或碰撞的时候会对周围造成伤害。</value>
-  </data>
-  <data name="Hint26Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-加压环境能让你维持最舒适的温度，提高生命值和氧气。</value>
-  </data>
-  <data name="Hint23Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-宇航服在寒冷或者温度的地方耗电较快。</value>
-  </data>
-  <data name="Hint20Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-医疗室可以给你充电，恢复生命，效率比生存装置高五倍。</value>
-  </data>
-  <data name="Hint19Text" xml:space="preserve">
-    <value>小贴士: 
-
-
-你可以用传感器探测出企图从地下潜入你的基地的敌人。</value>
-  </data>
-  <data name="Hint18Text" xml:space="preserve">
-    <value>小贴士: 
-
-
-风力涡轮机放到较高而且空旷的地方效能更高。</value>
-  </data>
-  <data name="Hint16Text" xml:space="preserve">
-    <value>小贴士: 
-
-
-战车无法前行时，能使用轮子悬挂跳出。</value>
-  </data>
-  <data name="Hint15Text" xml:space="preserve">
-    <value>小贴士: 
-
-
-高级精炼厂在炼矿物时，产出较高。</value>
-  </data>
-  <data name="Hint05Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-用喷气包飞行时，使用相对抑制器能使人和附近的网格的移动速度保持一致。</value>
-  </data>
-  <data name="Hint02Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-轮子悬挂取决于能耗设定。</value>
-  </data>
-  <data name="Hint01Text" xml:space="preserve">
-    <value>小贴士：
-  
-  
-输入/F和你的阵营聊天，/g可以全球聊天。</value>
   </data>
   <data name="HudBlockInfo_Components" xml:space="preserve">
     <value>组件</value>
@@ -12741,63 +12857,6 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
   </data>
   <data name="ControlName_ColorPicker" xml:space="preserve">
     <value>颜色选择器</value>
-  </data>
-  <data name="HintGamepadOnly01Text" xml:space="preserve">
-    <value>小贴士：
-{0}和{1}为修改键。在游戏中，做动作的时候，试着按住它们。多数情况下你会发现每次做的动作都不太一样。</value>
-  </data>
-  <data name="HintGamepadOnly02Text" xml:space="preserve">
-    <value>小贴士：
-在生存模式放方块的时候，如果出错了，你可以按{0}切换到切割机。手上有切割机的时候，你可以按{0}切换到之前的方块。</value>
-  </data>
-  <data name="HintGamepadOnly03Text" xml:space="preserve">
-    <value>小贴士：
-你可以用{0}，这样在复杂的窗户区行走更容易。</value>
-  </data>
-  <data name="HintGamepadOnly04Text" xml:space="preserve">
-    <value>小贴士：
-按住{0}+{1}，移动{2}和{3}，摄像机可以围着你和飞船旋转。</value>
-  </data>
-  <data name="HintGamepadOnly07Text" xml:space="preserve">
-    <value>小贴士：
-在建造对称飞船时，可在系统圆形菜单中激活对称建造模式。</value>
-  </data>
-  <data name="HintGamepadOnly09Text" xml:space="preserve">
-    <value>小贴士：
- 你可以按住{0}和{1}打开表情工具栏。</value>
-  </data>
-  <data name="HintGamepadOnly10Text" xml:space="preserve">
-    <value>小贴士：
-你可以用体素手修整体素。创意模式时，可以从系统圆形菜单进入。可以按{0}{1}{2}+{0}和{2}+{1}进行放置，恢复和喷涂。</value>
-  </data>
-  <data name="HintGamepadOnly11Text" xml:space="preserve">
-    <value>小贴士：
-你可以按{0}禁用自动旋转功能</value>
-  </data>
-  <data name="HintGamepadOnly12Text" xml:space="preserve">
-    <value>小贴士：
-如果驾驶舱为主驾驶舱，你可以从炮塔开走车
-按住{0}控制转向。</value>
-  </data>
-  <data name="HintGamepadOnly13Text" xml:space="preserve">
-    <value>小贴士：
-使用{0}你可以快速挖矿而不产生矿石。</value>
-  </data>
-  <data name="HintGamepadOnly00Text" xml:space="preserve">
-    <value>小贴士：
-创意模式时，你可以用{0}使手上的蓝图和行星的引力一致。</value>
-  </data>
-  <data name="HintGamepadOnly08Text" xml:space="preserve">
-    <value>小贴士：
-按住{0}，{1}或者{0}{1}你可以移动的物品的数量成10倍增加。</value>
-  </data>
-  <data name="HintGamepadOnly05Text" xml:space="preserve">
-    <value>小贴士：
-使用摄像机和炮塔的时候，可以按{0}调焦距。</value>
-  </data>
-  <data name="HintGamepadOnly06Text" xml:space="preserve">
-    <value>小贴士：
- 你可以从圆形菜单中修改屏幕中的GPS坐标和天线。</value>
   </data>
   <data name="RadialMenu_Label_VoxelHand_Disabled" xml:space="preserve">
     <value>此世界禁用</value>
