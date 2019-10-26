@@ -4043,17 +4043,11 @@
   
 在任何一个驾驶舱中按 Ctrl-G 进入建造模式.</value>
   </data>
-  <data name="HintKeyboardOnly01Control0" xml:space="preserve">
-    <value>方块默认安置点</value>
-  </data>
   <data name="HintKeyboardOnly01Text" xml:space="preserve">
     <value>小贴士：
   
   
 可以使用 {0} 打开/关闭方块自动旋转功能.</value>
-  </data>
-  <data name="HintKeyboardOnly02Control0" xml:space="preserve">
-    <value>终端</value>
   </data>
   <data name="HintKeyboardOnly02Text" xml:space="preserve">
     <value>小贴士：
@@ -4064,9 +4058,6 @@
   <data name="Hint03Text" xml:space="preserve">
     <value> 在主驾驶仓中，控制炮塔时可以
 按住Alt键开启鼠标控制。</value>
-  </data>
-  <data name="Hint04Control0" xml:space="preserve">
-    <value>返回复活点</value>
   </data>
   <data name="Hint04Text" xml:space="preserve">
     <value>在游戏里卡住了？
@@ -4101,9 +4092,6 @@
   
 行星表面的大石头往往含有许多矿物。</value>
   </data>
-  <data name="Hint10Control0" xml:space="preserve">
-    <value>跃迁</value>
-  </data>
   <data name="Hint10Text" xml:space="preserve">
     <value>小贴士：
   
@@ -4112,9 +4100,6 @@
   </data>
   <data name="Hint11Text" xml:space="preserve">
     <value>小贴士: 在行星上使用喷气背包时，氢燃料很快耗尽。</value>
-  </data>
-  <data name="Hint12Control0" xml:space="preserve">
-    <value>登陆设备</value>
   </data>
   <data name="Hint12Text" xml:space="preserve">
     <value>小贴士：
@@ -4178,9 +4163,6 @@
     
     
 在没有氢气罐的情况下，氧气/氢气制造机可以生产少量氢气供应推进器。</value>
-  </data>
-  <data name="HintKeyboardOnly00Control0" xml:space="preserve">
-    <value>控制信号</value>
   </data>
   <data name="HintKeyboardOnly00Text" xml:space="preserve">
     <value>小贴士：
@@ -12788,44 +12770,26 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
     <value>小贴士：
 你可以用体素手修整体素。创意模式时，可以从系统圆形菜单进入。可以按{0}{1}{2}+{0}和{2}+{1}进行放置，恢复和喷涂。</value>
   </data>
-  <data name="HintGamepadOnly11Control0" xml:space="preserve">
-    <value>建造:立方体_默认_安装点</value>
-  </data>
   <data name="HintGamepadOnly11Text" xml:space="preserve">
     <value>小贴士：
 你可以按{0}禁用自动旋转功能</value>
-  </data>
-  <data name="HintGamepadOnly12Control0" xml:space="preserve">
-    <value>太空船：FAKE_RS</value>
   </data>
   <data name="HintGamepadOnly12Text" xml:space="preserve">
     <value>小贴士：
 如果驾驶舱为主驾驶舱，你可以从炮塔开走车
 按住{0}控制转向。</value>
   </data>
-  <data name="HintGamepadOnly13Control0" xml:space="preserve">
-    <value>工具：次级_工具_动作</value>
-  </data>
   <data name="HintGamepadOnly13Text" xml:space="preserve">
     <value>小贴士：
 使用{0}你可以快速挖矿而不产生矿石。</value>
-  </data>
-  <data name="HintGamepadOnly00Control0" xml:space="preserve">
-    <value>剪贴板：转换_建造_模式</value>
   </data>
   <data name="HintGamepadOnly00Text" xml:space="preserve">
     <value>小贴士：
 创意模式时，你可以用{0}使手上的蓝图和行星的引力一致。</value>
   </data>
-  <data name="HintGamepadOnly08Control1" xml:space="preserve">
-    <value>基地：假_修改器_RB</value>
-  </data>
   <data name="HintGamepadOnly08Text" xml:space="preserve">
     <value>小贴士：
 按住{0}，{1}或者{0}{1}你可以移动的物品的数量成10倍增加。</value>
-  </data>
-  <data name="HintGamepadOnly05Control0" xml:space="preserve">
-    <value>太空飞船：假_LS</value>
   </data>
   <data name="HintGamepadOnly05Text" xml:space="preserve">
     <value>小贴士：
@@ -12840,51 +12804,6 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
   </data>
   <data name="RadialMenu_Label_VoxelHand_Survival" xml:space="preserve">
     <value>只在创意模式或使用创意工具时可用。</value>
-  </data>
-  <data name="HintGamepadOnly01Control0" xml:space="preserve">
-    <value>R基地：假_修改器_LB</value>
-  </data>
-  <data name="HintGamepadOnly01Control1" xml:space="preserve">
-    <value>基地：假_修改器_RB</value>
-  </data>
-  <data name="HintGamepadOnly02Control0" xml:space="preserve">
-    <value>建造：次级_工具_动作</value>
-  </data>
-  <data name="HintGamepadOnly03Control0" xml:space="preserve">
-    <value>GUI：假_RS</value>
-  </data>
-  <data name="HintGamepadOnly04Control0" xml:space="preserve">
-    <value>R基地：假_修改器_LB</value>
-  </data>
-  <data name="HintGamepadOnly04Control1" xml:space="preserve">
-    <value>基地：假_修改器_RB</value>
-  </data>
-  <data name="HintGamepadOnly04Control2" xml:space="preserve">
-    <value>基地：假_LS</value>
-  </data>
-  <data name="HintGamepadOnly04Control3" xml:space="preserve">
-    <value>基地：假_RS</value>
-  </data>
-  <data name="HintGamepadOnly09Control0" xml:space="preserve">
-    <value>R基地：假_修改器_LB</value>
-  </data>
-  <data name="HintGamepadOnly09Control1" xml:space="preserve">
-    <value>基地：假_修改器_RB</value>
-  </data>
-  <data name="HintGamepadOnly10Control0" xml:space="preserve">
-    <value>体素：主要_工具_动作</value>
-  </data>
-  <data name="HintGamepadOnly10Control1" xml:space="preserve">
-    <value>体素：次级_工具_动作</value>
-  </data>
-  <data name="HintGamepadOnly10Control2" xml:space="preserve">
-    <value>体素：体素_恢复</value>
-  </data>
-  <data name="HintGamepadOnly08Control0" xml:space="preserve">
-    <value>R基地：假_修改器_LB</value>
-  </data>
-  <data name="HintGamepadOnly10Control3" xml:space="preserve">
-    <value>体素：体素_喷涂</value>
   </data>
   <data name="RadialMenu_Label_DisabledWorld" xml:space="preserve">
     <value>此世界禁用</value>
