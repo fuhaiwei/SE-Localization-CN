@@ -1286,7 +1286,7 @@
     <value>楼梯-lt-</value>
   </data>
   <data name="DisplayName_Block_SteelCatwalk" xml:space="preserve">
-    <value>钢栈桥-gzq-</value>
+    <value>钢制小型通道-gzxxtd-</value>
   </data>
   <data name="DisplayName_Block_SteelCatwalkCorner" xml:space="preserve">
     <value>钢制小型通道角-gzxxtdj-</value>
@@ -3301,7 +3301,7 @@
     <value>储存物品的货柜。</value>
   </data>
   <data name="Description_SteelCatwalk" xml:space="preserve">
-    <value>猫步薄钢片可以形状，也能做薄墙。</value>
+    <value>钢制小型通道可用于建造人行道或用作薄墙。</value>
   </data>
   <data name="Description_Cockpit" xml:space="preserve">
     <value>驾驶舱可以控制飞船
