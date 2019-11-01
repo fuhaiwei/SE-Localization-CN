@@ -11844,7 +11844,7 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
     <value>目标：</value>
   </data>
   <data name="ContractScreen_ObtainDeliver_ItemAmount" xml:space="preserve">
-    <value>金额：</value>
+    <value>数量：</value>
   </data>
   <data name="ContractScreen_RepChange_Hint" xml:space="preserve">
     <value>名声：</value>
@@ -12766,7 +12766,7 @@ Alt+Ctrl+{0}- 取出并将方块保持在建造计划器中</value>
     <value>信息无法获得</value>
   </data>
   <data name="VendingMachine_Script_ItemAmount" xml:space="preserve">
-    <value>金额：</value>
+    <value>数量：</value>
   </data>
   <data name="VendingMachine_Script_MessageBuy" xml:space="preserve">
     <value>谢谢惠顾！</value>
